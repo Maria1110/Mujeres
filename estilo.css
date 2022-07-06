@@ -1,0 +1,129 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+   justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    background: url(FOND.jpg);
+     background-size: cover;
+    background-position: top;
+}
+
+
+header{
+    display: flex;
+    height: 80px;
+    width: 1500px;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(149, 236, 218);
+    padding: 5px;
+    
+   }
+  
+.logo{
+    display: flex;
+    align-items:center ;
+    
+}
+.logo img{
+    height: 90px; 
+    margin-right: 10px; 
+}
+nav a{
+    padding: 0px; 
+    margin-right: 40px;
+    margin-left: 10px;
+}
+nav a:hover{
+    color:white;
+}
+
+.cuerpo {
+    color: black;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+
+    
+    h1{
+
+        padding-top: 1em;
+        font-family: verdana;
+        text-align: center;
+        font-family: 'Teko', sans-serif;
+        font-size: 2em;
+        font-weight: normal;
+    
+    }
+    
+ h2{
+    text-align:center;
+    color: black;
+    font-family: Comic Sans MS,cursiva;
+    }
+    
+    p{
+        font-family: 'Indie Flower', cursive;
+    }
+    
+    img
+    {
+    display: block;
+    margin:auto;
+    
+    
+    }
+    h3{
+        text-align:center;
+        color:gold;
+        font-family: Comic Sans MS,cursiva;   
+    }
+    
+    h4{
+        text-align: center;
+        font-weight: bold;
+        padding: 1em;
+        font-family: Comic Sans MS,cursiva;
+    }
+
+
+   
+    .footerredes{
+        margin: auto;
+        text-align: center;
+        list-style: none;
+        padding-bottom: 20px;
+            
+    
+    }
+    
+    
+    .footerredes li {
+        display:inline-block;
+        padding-bottom: 10px
+    
+    }
+    
+    .footerredes li a{
+        padding: 10px;
+        display: block;
+    }
+    
+    marquee {
+        background-color: #5b693200;
+    }
+    
+    
+    .marquesina{
+        background-color: #3780474d;
+    }
+    
+    .table{
+        margin: auto;
+    }
+    
+    
+         
